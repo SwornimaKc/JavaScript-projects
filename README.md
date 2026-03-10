@@ -1,5 +1,7 @@
  Web Development Mini Projects
+ 
 This repository contains simple HTML projects created for learning and practice.
+
 Projects Included
 
 1. Calculator
